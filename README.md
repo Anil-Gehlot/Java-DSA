@@ -33,10 +33,13 @@ To get started with the modules in this repository, follow these steps:
 
 The repository is organized into different modules, each focusing on a specific data structure or algorithm. Here's a brief overview of each module:
 
-- arrays: Implementations of dynamic arrays, matrices, and related algorithms.
+- arrays:    Implementations of dynamic arrays, matrices, and related algorithms.
 - linked-lists: Implementation of singly and doubly linked lists along with associated operations.
-- stacks: Implementation of stack data structure and relevant algorithms.
-- queues: Implementation of queue data structure and relevant algorithms.
-- trees: Implementations of binary trees, binary search trees, AVL trees, and more.
-- sorting: Various sorting algorithms such as bubble sort, insertion sort, quicksort, mergesort, and more.
+- stacks:    Implementation of stack data structure and relevant algorithms.
+- queues:    Implementation of queue data structure and relevant algorithms.
+- trees:     Implementations of binary trees, binary search trees, AVL trees, and more.
+- sorting:   Various sorting algorithms such as bubble sort, insertion sort, quicksort, mergesort, and more.
 - searching: Implementation of searching algorithms including linear search, binary search, and more.
+
+Feel free to explore these modules and delve into the code to understand how different data structures and algorithms are implemented.
+
