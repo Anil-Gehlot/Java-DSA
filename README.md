@@ -7,7 +7,6 @@ Welcome to the Java Data Structures and Algorithms repository! This repository i
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Modules](#modules)
-- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -22,7 +21,6 @@ To get started with the modules in this repository, follow these steps:
 
    ```bash
        git clone https://github.com/Anil-Gehlot/Java-DSA
-       
 2. Navigate to the cloned directory:
 
     ```bash
@@ -43,3 +41,6 @@ The repository is organized into different modules, each focusing on a specific 
 
 Feel free to explore these modules and delve into the code to understand how different data structures and algorithms are implemented.
 
+## Contributing
+
+Contributions to this repository are highly encouraged! If you have your own implementation of a data structure or algorithm, or if you find ways to improve existing code, please consider opening a pull request. Follow the existing module structure and ensure that your code is well-documented.
